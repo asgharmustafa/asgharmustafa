@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 👯 I’m looking to collaborate with people who are willing to learn and expand their skill set to solve various problems such as time series, video, audio and text analytics.
 
-📫 Reach me out on my [LinkedIn](www.linkedin.com/in/asgharmustafa)
+📫 Reach me out on my [LinkedIn](https://www.linkedin.com/in/asgharmustafa)
 
