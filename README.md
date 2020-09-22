@@ -1,5 +1,6 @@
-### Hi there 👋
+## Hi, I'm Asghar 👋 
 
+I am a data scientist with great statistical background who is passionate about leveraging data to solve complex business and social problems. 
 <!--
 **asgharmustafa/asgharmustafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+💬 I can speak English, Urdu, Python and R fluently 
+
+👯 I’m looking to collaborate with people who are willing to learn and expand their skill set to solve various problems such as time series, video, audio and text analytics.
+
+📫 Reach me out on my [LinkedIn](www.linkedin.com/in/asgharmustafa)
+
