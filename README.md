@@ -1,4 +1,4 @@
-
+<a href="https://github.com/asgharmustafa/asgharmustafa"><img width="1000" height="400" src="https://github.com/asgharmustafa/asgharmustafa/blob/master/Github-Asghar.JPG?raw=true"></a>
 
 ## Hi, I'm Asghar 👋 
 
@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 
 
 
-## &#x1f4c8; GitHub Stats
+<!-- ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/asgharmustafa/asgharmustafa">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asgharmustafa&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Asghar's GitHub Stats"/>
-  </a>
+  </a> -->
 
