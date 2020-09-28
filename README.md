@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 💬 I can speak English, Urdu, Python and R fluently 
 
-👯 I’m looking to collaborate with people who are willing to learn and expand their skill set to solve various problems such as time series, video, audio and text analytics.
+👯 I’m looking to collaborate with people who are willing to learn and expand their skill set to solve various problems such as time series, video, audio, text and energy analytics.
 
 📫 Reach me out on my [LinkedIn](https://www.linkedin.com/in/asgharmustafa)
 
